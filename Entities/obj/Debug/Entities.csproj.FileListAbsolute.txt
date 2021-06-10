@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\bin\Debug\Entities.dll
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\obj\Debug\Entities.dll
+C:\Users\HP\source\repos\ProductManagementSystem\Entities\obj\Debug\Entities.pdb
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\bin\Debug\Entities.dll
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\bin\Debug\Entities.pdb
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\obj\Debug\Entities.dll
+C:\Users\HP\source\repos\DotNet\Ado\ProductManagementSystem\Entities\obj\Debug\Entities.pdb
